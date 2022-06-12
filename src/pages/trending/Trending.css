@@ -1,0 +1,22 @@
+.trending{
+    width: 100%;
+    display:flex;
+    align-items: center;
+    justify-content:center;
+    flex-direction: column;
+    gap: 2rem;
+   
+    
+}
+.top-title{
+    height: 2vh;
+  
+    color: rgba(189, 189, 189, 0.74);
+    letter-spacing: 1px;
+}
+.card-container{
+    max-width: 100%;
+    display:grid;
+    grid-template-columns: repeat(auto-fit,minmax(15rem,1fr));
+    gap: 1rem;
+}

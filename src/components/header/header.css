@@ -1,0 +1,23 @@
+.header{
+ 
+    width: 100%;
+    padding: 1rem;
+    background-color: #130536;
+    color:rgb(189, 189, 189);
+    position: fixed;
+    z-index: 100;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.head{
+    width: fit-content;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    letter-spacing: 1px;
+    cursor:pointer;
+}
