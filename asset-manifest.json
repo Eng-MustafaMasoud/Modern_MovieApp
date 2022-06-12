@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Modern_MovieApp/static/css/main.2f2a2357.css",
+    "main.js": "/Modern_MovieApp/static/js/main.214123fc.js",
+    "index.html": "/Modern_MovieApp/index.html",
+    "main.2f2a2357.css.map": "/Modern_MovieApp/static/css/main.2f2a2357.css.map",
+    "main.214123fc.js.map": "/Modern_MovieApp/static/js/main.214123fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f2a2357.css",
+    "static/js/main.214123fc.js"
+  ]
+}
